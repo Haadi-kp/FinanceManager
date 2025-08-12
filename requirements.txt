@@ -35,6 +35,10 @@ wsproto==1.0.0
 gunicorn
 bcrypt
 pdfkit
+setuptools>=65.5.1
+wheel
+
 pymysql
 flask-mail
+
 
